@@ -4,10 +4,10 @@ This repository contains the implementation of Lab 3 for the DS201 Deep Learning
 
 🌿 Repository Branch Structure
  Branch	                        Description
-- bai_1	       Implementation of Exercise 1 – 5-layer LSTM for text classification on UIT-VSFC.
-- bai_2	       Implementation of Exercise 2 – 5-layer GRU for text classification on UIT-VSFC.
-- bai_3	       Implementation of Exercise 3 – Encoder–Decoder with 5-layer LSTM Encoder & Decoder for NER on PhoNER.
-- assignment	 Contains the original Lab 3 assignment document.
+- bai_1: Implementation of Exercise 1 – 5-layer LSTM for text classification on UIT-VSFC.
+- bai_2: Implementation of Exercise 2 – 5-layer GRU for text classification on UIT-VSFC.
+- bai_3: Implementation of Exercise 3 – Encoder–Decoder with 5-layer LSTM Encoder & Decoder for NER on PhoNER.
+- assignment: Contains the original Lab 3 assignment document.
 
 📄 Exercises Overview
 

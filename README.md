@@ -33,9 +33,6 @@ Exercise 3
 - Encoder: 5-layer LSTM
 - Decoder: 5-layer LSTM
 - Hidden size: 256
-
-Task: Named Entity Recognition
-
-Dataset: PhoNER
-
-Evaluation metric: F1-score
+- Task: Named Entity Recognition
+- Dataset: PhoNER
+- Evaluation metric: F1-score
